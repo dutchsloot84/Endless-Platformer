@@ -1,4 +1,6 @@
 --Endless Platformer--------------------------------------------------------------------
+--SourceTree Commit Test
+
 -- Hide the status bar 
 display.setStatusBar( display.HiddenStatusBar ) 
 --Variables for the devices viewable Width and Height
